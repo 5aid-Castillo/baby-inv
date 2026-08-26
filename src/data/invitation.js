@@ -34,10 +34,10 @@ export const invitationData = {
     text: "Tu presencia es nuestro mejor regalo. Pero si deseas obsequiarnos algo, hemos preparado una mesa de regalos para nuestra pequeña.",
     store: "Liverpool",
      lists: [
-      {
+     /*  {
         listNumber: "60013655",
         url: "https://mesaderegalos.liverpool.com.mx/milistaderegalos/60013655",
-      },
+      }, */
       {
         listNumber: "52023655",
         url: "https://mesaderegalos.liverpool.com.mx/milistaderegalos/52023655",
